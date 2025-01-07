@@ -1,0 +1,28 @@
+---
+title: "Kontakt"
+---
+
+```{=html}
+<style>
+.profile-picture {
+  display: inline-block;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+}
+
+figcaption {
+  text-align: center;
+}
+</style>
+```
+
+::: {layout-ncol="2"}
+![Tina Quist](/images/tina.jpg){.profile-picture}
+
+Projektkoordinator og kontaktperson for Region Midtjylland\
+Tina Quist\
+Mail: tina.quist\@rm.dk\
+tlf. 2434 6347
+:::
