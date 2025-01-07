@@ -25,9 +25,7 @@ Projektleder og kontaktperson\
 Tina Quist\
 Mail: tina.quist\@rm.dk\
 tlf. 2434 6347
-:::
 
-::: {layout-ncol="2"}
 ![Anette Andersen](/images/anette.png){.profile-picture}
 
 Programleder og overlæge\
