@@ -3,14 +3,15 @@ title: "EVAKOM - Effektevaluering af kommunale patientuddannelser og træningsfo
 ---
 
 ## Om projektet
-EVAKOM er et kvalitetsudviklingsprojekt, der undersøger effekten af lokalt udviklede kommunale forebyggelsestilbud til borgere med Type 2-Diabetes. Alle kommuner i Region Midtjylland kan deltage i evalueringen.
+EVAKOM er et kvalitetsudviklingsprojekt, der undersøger effekten af lokalt udviklede kommunale forebyggelsestilbud til borgere med Type 2-Diabetes. 
+Alle kommuner i Region Midtjylland kan deltage i evalueringen.
 
 Formålet med projektet er at evaluere eksisterende kommunale forløb målrettet borgere med type 2-diabetes. Den enkelte kommunes indsats beskrives og effekter af patientuddannelsesforløbet evalueres.  Hvis muligt foretages en samlet vurdering af de lokalt udviklede indsatser på tværs af kommunerne. 
 
 Evalueringen baseres på følgende effektmål, der som minimum evalueres:
 
 - Deltageres opfattelse af at kunne tage vare på og mestre sin egen diabetesbehandling (Perceived Competence in Diabetes scale (PCD))
-- Udvalgte sundhedsindikatorer der øger risiko for diabetiske (sen)komplikationer
+- Udvalgte sundhedsindikatorer, der øger risiko for diabetiske (sen)komplikationer
 - Sundhedsøkonomisk analyse, der sammenholder økonomiske ressourcer med klinisk relevante effekter
 
 Hvis den enkelte kommune ønsker det, kan evalueringen udvides med flere effektmål. 
@@ -86,11 +87,8 @@ Steno Diabetes Center Aarhus afholder udgifter til evalueringen i form af projek
 
 ![](images/tina.jpg){.profile-picture}
 
-:::
 
 ### Anette Andersen
-
-::: {layout-ncol=2}
 
 - Programleder og overlæge
 - Mail: anette.andersen\@rm.dk
