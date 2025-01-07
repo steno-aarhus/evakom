@@ -96,5 +96,5 @@ Steno Diabetes Center Aarhus afholder udgifter til evalueringen i form af projek
 - Mail: anette.andersen\@rm.dk
 - Tlf. 2213 5605
 
-![](images/anette.PNG){.profile-picture}
+![](images/anette.png){.profile-picture}
 :::
