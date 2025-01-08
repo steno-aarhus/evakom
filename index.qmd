@@ -1,12 +1,12 @@
 ---
-title: "EVAKOM - Effektevaluering af kommunale patientuddannelser og træningsforløb til borgere med Type 2-Diabetes"
+title: "EVAKOM - Effektevaluering af kommunale forebyggelsestilbud til borgere med Type 2-Diabetes"
 ---
 
 ## Om projektet
 EVAKOM er et kvalitetsudviklingsprojekt, der undersøger effekten af lokalt udviklede kommunale forebyggelsestilbud til borgere med Type 2-Diabetes. 
 Alle kommuner i Region Midtjylland kan deltage i evalueringen.
 
-Formålet med projektet er at evaluere eksisterende kommunale forløb målrettet borgere med type 2-diabetes. Den enkelte kommunes indsats beskrives og effekter af patientuddannelsesforløbet evalueres.  Hvis muligt foretages en samlet vurdering af de lokalt udviklede indsatser på tværs af kommunerne. 
+Formålet med projektet er at evaluere eksisterende kommunale tilbud målrettet borgere med type 2-diabetes. Den enkelte kommunes indsats beskrives og effekter af patientuddannelsesforløbet evalueres.  Hvis muligt foretages en samlet vurdering af de lokalt udviklede indsatser på tværs af kommunerne. 
 
 Evalueringen baseres på følgende effektmål, der som minimum evalueres:
 
@@ -23,6 +23,7 @@ Tag fat i projektleder Tina Quist, hvis I gerne vil høre mere om et samarbejde.
 ## Fordele ved at deltage
 
 Ved at deltage i projektet, får jeres kommune: 
+
 - En videnskabelig evaluering af effekterne af jeres lokalt udviklede tilbud.
 - Tilpassede effektmål, hvis der er særlige effekter, I ønsker vi skal belyse.
 - En sundhedsøkonomisk analyse af jeres tilbud.
