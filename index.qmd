@@ -3,36 +3,53 @@ title: "EvaKom - Effektevaluering af kommunale uddannelsestilbud til borgere med
 ---
 
 ## Om projektet
-EvaKom er et kvalitetsudviklingsprojekt, der undersøger effekten af lokalt udviklede kommunale uddannelsestilbud til borgere med Type 2-Diabetes. 
-Alle kommuner i Region Midtjylland kan deltage i projektet og få deres tilbud evalueret.
 
-Formålet med projektet er at evaluere eksisterende kommunale tilbud målrettet borgere med type 2-diabetes. Den enkelte kommunes tilbud beskrives og effekter af et samlet forløbet evalueres. Hvis muligt foretages en samlet vurdering af de lokalt udviklede tilbud på tværs af de deltagende kommuner. 
+EvaKom er et kvalitetsudviklingsprojekt, der undersøger effekten af
+lokalt udviklede kommunale uddannelsestilbud til borgere med Type
+2-Diabetes. Alle kommuner i Region Midtjylland kan deltage i projektet
+og få deres tilbud evalueret.
+
+Formålet med projektet er at evaluere eksisterende kommunale tilbud
+målrettet borgere med type 2-diabetes. Den enkelte kommunes tilbud
+beskrives og effekter af et samlet forløbet evalueres. Hvis muligt
+foretages en samlet vurdering af de lokalt udviklede tilbud på tværs af
+de deltagende kommuner.
 
 Evalueringen baseres på følgende effektmål, der som minimum evalueres:
 
-- Deltageres opfattelse af at kunne tage vare på og mestre sin egen diabetesbehandling (Perceived Competence in Diabetes scale (PCD))
-- Udvalgte sundhedsindikatorer, der øger risiko for diabetiske (sen)komplikationer
-- Sundhedsøkonomisk analyse, der sammenholder økonomiske ressourcer med klinisk relevante effekter
+-   Deltageres opfattelse af at kunne tage vare på og mestre sin egen
+    diabetesbehandling (Perceived Competence in Diabetes scale (PCD))
+-   Udvalgte sundhedsindikatorer, der øger risiko for diabetiske
+    (sen)komplikationer
+-   Sundhedsøkonomisk analyse, der sammenholder økonomiske ressourcer
+    med klinisk relevante effekter
 
-Hvis den enkelte kommune ønsker det, kan evalueringen udvides med flere effektmål. 
+Hvis den enkelte kommune ønsker det, kan evalueringen udvides med flere
+effektmål.
 
-Der er stadig mulighed for, at flere kommuner kan blive en del af projektet. 
-Tag fat i projektleder Tina Quist, hvis I gerne vil høre mere om et samarbejde.
-
+Der er stadig mulighed for, at flere kommuner kan blive en del af
+projektet. Tag fat i projektleder Tina Quist, hvis I gerne vil høre mere
+om et samarbejde.
 
 ## Fordele ved at deltage
 
-Ved at deltage i projektet, får jeres kommune: 
+Ved at deltage i projektet, får jeres kommune:
 
-- En videnskabelig evaluering af effekterne af jeres lokalt udviklede tilbud.
-- Tilpassede effektmål, hvis der er særlige effekter, I ønsker vi skal belyse.
-- En sundhedsøkonomisk analyse af jeres tilbud.
-- Erfaring med at deltage i videnskabelige projekter og styrket samarbejde mellem kommunen og forskere
-- En medvirkende rolle i at skabe evidens som kan spille ind i den kommende sundhedsreform
-	
+-   En videnskabelig evaluering af effekterne af jeres lokalt udviklede
+    tilbud.
+-   Tilpassede effektmål, hvis der er særlige effekter, I ønsker vi skal
+    belyse.
+-   En sundhedsøkonomisk analyse af jeres tilbud.
+-   Erfaring med at deltage i videnskabelige projekter og styrket
+    samarbejde mellem kommunen og forskere
+-   En medvirkende rolle i at skabe evidens som kan spille ind i den
+    kommende sundhedsreform
+
 ::: content-hidden
 ## Video
-Hør Jakob Kirkegaard fra Favrskov kommune fortælle hvorfor de har valgt at få evalueret til deres tilbud til borgere med type 2-diabetes.
+
+Hør Jakob Kirkegaard fra Favrskov kommune fortælle hvorfor de har valgt
+at få evalueret til deres tilbud til borgere med type 2-diabetes.
 
 {{< video URL_TO_VIDEO >}}
 :::
@@ -40,60 +57,100 @@ Hør Jakob Kirkegaard fra Favrskov kommune fortælle hvorfor de har valgt at få
 ## Ofte stillede spørgsmål
 
 <details>
-<summary>**Hvordan er evalueringen designet og hvad betyder det for os?**</summary>
+
+<summary>**Hvordan er evalueringen designet og hvad betyder det for
+os?**</summary>
 
 Evakom er designet som et lodtrækningsstudie med venteliste.
 
-For at opnå statistisk styrke til meningsfulde konklusioner, skal evalueringen baseres på i alt 48 borgere, hvoraf 
-- 32 borgere starter på forløbet med det samme
-- 16 borgere venter ca. 3 måneder med at starte i forløb.
+For at opnå statistisk styrke til meningsfulde konklusioner, skal
+evalueringen baseres på i alt 48 borgere, hvoraf - 32 borgere starter på
+forløbet med det samme - 16 borgere venter ca. 3 måneder med at starte i
+forløb.
 
-Der er ikke fastlagt en tidsbegrænsning for, hvor længe det kan tage at rekruttere 48 borgere. 
+Der er ikke fastlagt en tidsbegrænsning for, hvor længe det kan tage at
+rekruttere 48 borgere.
 
-Når en borger tilbydes et forløb målrettet borgere med type 2-diabetes, informeres borgeren om projektet. Hvis borgeren ønsker at deltage underskrives en samtykkeerklæring. Derefter vil I ved hjælp af et computersystem (REDcap) tilfældigt tildele borgeren at starte med det samme (fx opstart på næste hold), eller sætte borgeren på venteliste. Borgerne bliver automatisk randomiseret ud fra en 2:1 nøgle, hvilket betyder at dobbelt så mange borgere kommer i gang med det samme i forhold til hvor mange borgere, der kommer på venteliste. Uanset om borgeren starter med det samme eller tildeles venteliste skal borgeren gennemføre få målinger/tests hos jer og borgeren skal besvare et spørgeskema elektronisk hjemmefra. Målinger/test og besvarelse af spørgeskema gentages når forløbet er slut eller når borgeren har været fem måneder på venteliste.
+Når en borger tilbydes et forløb målrettet borgere med type 2-diabetes,
+informeres borgeren om projektet. Hvis borgeren ønsker at deltage
+underskrives en samtykkeerklæring. Derefter vil I ved hjælp af et
+computersystem (REDcap) tilfældigt tildele borgeren at starte med det
+samme (fx opstart på næste hold), eller sætte borgeren på venteliste.
+Borgerne bliver automatisk randomiseret ud fra en 2:1 nøgle, hvilket
+betyder at dobbelt så mange borgere kommer i gang med det samme i
+forhold til hvor mange borgere, der kommer på venteliste. Uanset om
+borgeren starter med det samme eller tildeles venteliste skal borgeren
+gennemføre få målinger/tests hos jer og borgeren skal besvare et
+spørgeskema elektronisk hjemmefra. Målinger/test og besvarelse af
+spørgeskema gentages når forløbet er slut eller når borgeren har været
+fem måneder på venteliste.
 
 </details>
 
 <details>
+
 <summary>**Hvilke målinger og test skal vi udføre?**</summary>
-Omfanget af målinger og test afhænger af hvilke effektmål I ønsker at belyse.
-Som minimum skal der foretages en måling af taljeomfang og gennemføres en 6 minutters gangtest samt en 30 sekunders rejse-sætte sig test.
+
+Omfanget af målinger og test afhænger af hvilke effektmål I ønsker at
+belyse. Som minimum skal der foretages en måling af taljeomfang og
+gennemføres en 6 minutters gangtest samt en 30 sekunders rejse-sætte sig
+test.
 
 </details>
-
 
 <details>
-<summary>**Hvad er de næste skridt, hvis vi er interesserede i at deltage?**</summary>
 
-- *Tilpasning og planlægning:* Hvis I er interesserede i at deltage, aftaler vi et møde hvor spørgsmål kan afklares og hvor vi  drøfter, hvordan projektet kan tilpasses jeres ønsker, behov og kapacitet. Desuden vil vi sammen lave en tidsplan for projektet. 
+<summary>**Hvad er de næste skridt, hvis vi er interesserede i at
+deltage?**</summary>
 
-- *Det juridiske:* Når vi har fastlagt en plan og I føler jer klædt på til at indgå i projektet, skal både vi og I underskrive en databehandleraftale. 
+-   *Tilpasning og planlægning:* Hvis I er interesserede i at deltage,
+    aftaler vi et møde hvor spørgsmål kan afklares og hvor vi drøfter,
+    hvordan projektet kan tilpasses jeres ønsker, behov og kapacitet.
+    Desuden vil vi sammen lave en tidsplan for projektet.
 
-- *Opkvalificering og support:*  Vi aftaler nogle møder for at hjælpe jer godt i gang med evalueringen og oplære relevante medarbejdere i dataindsamling.  Projektleder for projektet er tilgængelig til at besvare spørgsmål og yde support undervejs. Der vil løbende afholdes korte møder for at adressere eventuelle udfordringer, give feedback på samarbejdet og sammen vurdere projektets fremdrift.  
+-   *Det juridiske:* Når vi har fastlagt en plan og I føler jer klædt på
+    til at indgå i projektet, skal både vi og I underskrive en
+    databehandleraftale.
 
-- *Det økonomiske:* Projektet er tilrettelagt med egenfinansiering og hver samarbejdspartner afholder derfor egne udgifter til gennemførelse af projektet. Deltagende kommuner afholder vanlige udgifter til gennemførelse af forløbet samt udgifter forbundet med at deltage i evalueringen herunder personaletid til: Deltagelse i projektmøder (planlægning og opfølgningsmøder), besvarelse af spørgeskema/interview om ressourceforbrug, oplæring i procedurer samt indsamling og indrapportering af data i form af udsendelse af links til spørgeskemaer, målinger og tests af deltagere ved baseline og afslutning af forløb.  
-Steno Diabetes Center Aarhus afholder udgifter til evalueringen i form af projektledelse, understøttelse (herunder oplæring i procedurer), databearbejdning og afrapportering.
+-   *Opkvalificering og support:* Vi aftaler nogle møder for at hjælpe
+    jer godt i gang med evalueringen og oplære relevante medarbejdere i
+    dataindsamling. Projektleder for projektet er tilgængelig til at
+    besvare spørgsmål og yde support undervejs. Der vil løbende afholdes
+    korte møder for at adressere eventuelle udfordringer, give feedback
+    på samarbejdet og sammen vurdere projektets fremdrift.
+
+-   *Det økonomiske:* Projektet er tilrettelagt med egenfinansiering og
+    hver samarbejdspartner afholder derfor egne udgifter til
+    gennemførelse af projektet. Deltagende kommuner afholder vanlige
+    udgifter til gennemførelse af forløbet samt udgifter forbundet med
+    at deltage i evalueringen herunder personaletid til: Deltagelse i
+    projektmøder (planlægning og opfølgningsmøder), besvarelse af
+    spørgeskema/interview om ressourceforbrug, oplæring i procedurer
+    samt indsamling og indrapportering af data i form af udsendelse af
+    links til spørgeskemaer, målinger og tests af deltagere ved baseline
+    og afslutning af forløb. Steno Diabetes Center Aarhus afholder
+    udgifter til evalueringen i form af projektledelse, understøttelse
+    (herunder oplæring i procedurer), databearbejdning og
+    afrapportering.
 
 </details>
-
 
 ## Kontakt
 
 ### Tina Quist
-::: {layout-ncol=2}
 
-- Projektleder og kontaktperson
-- Mail: tina.quist\@rm.dk
-- Tlf. 2434 6347
+::: {layout-ncol="2"}
+-   Projektleder og kontaktperson
+-   Mail: tina.quist\@rm.dk
+-   Tlf. 2434 6347
 
 ![](images/tina.jpg){.profile-picture}
 
-
 ### Anette Andersen
 
-- Programleder og overlæge
-- Mail: anette.andersen\@rm.dk
-- Tlf. 2213 5605
+-   Programleder og overlæge
+-   Mail: anette.andersen\@rm.dk
+-   Tlf. 2213 5605
 
 ![](images/anette.png){.profile-picture}
 :::
