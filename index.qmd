@@ -137,9 +137,9 @@ deltage?**</summary>
 
 ## Kontakt
 
+::: {layout-ncol="2"}
 ### Tina Quist
 
-::: {layout-ncol="2"}
 -   Projektleder og kontaktperson
 -   Mail: tina.quist\@rm.dk
 -   Tlf. 2434 6347
