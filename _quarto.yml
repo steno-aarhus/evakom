@@ -2,7 +2,7 @@ project:
   type: sdca-theme
 
 website:
-  title: "Evakom"
+  title: "EvaKom"
   site-url: "https://steno-aarhus.github.io/evakom/"
   repo-url: "https://github.com/steno-aarhus/evakom"
   navbar:
