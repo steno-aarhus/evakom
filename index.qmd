@@ -1,11 +1,11 @@
 ---
-title: "EvaKom - Effektevaluering af kommunale uddannelsestilbud til borgere med Type 2-Diabetes"
+title: "EvaKom - Effektevaluering af kommunale sundhedstilbud til borgere med Type 2-Diabetes"
 ---
 
 ## Om projektet
 
 EvaKom er et kvalitetsudviklingsprojekt, der undersøger effekten af
-lokalt udviklede kommunale uddannelsestilbud til borgere med Type
+lokalt udviklede kommunale sundhedstilbud til borgere med Type
 2-Diabetes. Alle kommuner i Region Midtjylland kan deltage i projektet
 og få deres tilbud evalueret.
 
