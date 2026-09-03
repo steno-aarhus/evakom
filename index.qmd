@@ -11,7 +11,7 @@ og få deres tilbud evalueret.
 
 Formålet med projektet er at evaluere eksisterende kommunale tilbud
 målrettet borgere med type 2-diabetes. Den enkelte kommunes tilbud
-beskrives og effekter af et samlet forløbet evalueres. Hvis muligt
+beskrives og effekter af et samlet forløb evalueres. Hvis muligt
 foretages en samlet vurdering af de lokalt udviklede tilbud på tværs af
 de deltagende kommuner.
 
@@ -29,7 +29,7 @@ effektmål.
 
 Der er stadig mulighed for, at flere kommuner kan blive en del af
 projektet. Tag fat i projektleder Tina Quist, hvis I gerne vil høre mere
-om et samarbejde.
+om et samarbejde. Se kontaktoplysninger længere ned på siden.
 
 ## Fordele ved at deltage
 
@@ -64,9 +64,11 @@ os?**</summary>
 Evakom er designet som et lodtrækningsstudie med venteliste.
 
 For at opnå statistisk styrke til meningsfulde konklusioner, skal
-evalueringen baseres på i alt 48 borgere, hvoraf - 32 borgere starter på
-forløbet med det samme - 16 borgere venter ca. 3 måneder med at starte i
-forløb.
+evalueringen baseres på i alt 48 borgere, hvoraf 
+
+- 32 borgere starter på
+forløbet med det samme 
+- 16 borgere venter ca. 3 måneder med at starte i forløb.
 
 Der er ikke fastlagt en tidsbegrænsning for, hvor længe det kan tage at
 rekruttere 48 borgere.
@@ -84,6 +86,8 @@ gennemføre få målinger/tests hos jer og borgeren skal besvare et
 spørgeskema elektronisk hjemmefra. Målinger/test og besvarelse af
 spørgeskema gentages når forløbet er slut eller når borgeren har været
 fem måneder på venteliste.
+
+Erfaringer fra Favrskov Kommune viser at projektprocedurer tager ca 1 time ialt.
 
 </details>
 
