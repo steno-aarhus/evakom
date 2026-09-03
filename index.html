@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -38,14 +41,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-cadbb23cbdeac9c94fa83e48eb9ba5b9.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-1ba171d4003d92d4d257b6916fd2f9d7.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-cadbb23cbdeac9c94fa83e48eb9ba5b9.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-6a537fba8eaf0f87500e2e8a30aa56d9.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b540b6f04bd439ed7a1e576ece92db15.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-6a537fba8eaf0f87500e2e8a30aa56d9.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f85d7231b0519531f7bc797f01284b49.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-f85d7231b0519531f7bc797f01284b49.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-f85d7231b0519531f7bc797f01284b49.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-446de69c84bf8ab9d7e87cde6ddf54e1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-446de69c84bf8ab9d7e87cde6ddf54e1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-446de69c84bf8ab9d7e87cde6ddf54e1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -148,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="om-projektet" class="level2">
 <h2 class="anchored" data-anchor-id="om-projektet">Om projektet</h2>
 <p>EvaKom er et kvalitetsudviklingsprojekt, der undersøger effekten af lokalt udviklede kommunale sundhedstilbud til borgere med Type 2-Diabetes. Alle kommuner i Region Midtjylland kan deltage i projektet og få deres tilbud evalueret.</p>
-<p>Formålet med projektet er at evaluere eksisterende kommunale tilbud målrettet borgere med type 2-diabetes. Den enkelte kommunes tilbud beskrives og effekter af et samlet forløbet evalueres. Hvis muligt foretages en samlet vurdering af de lokalt udviklede tilbud på tværs af de deltagende kommuner.</p>
+<p>Formålet med projektet er at evaluere eksisterende kommunale tilbud målrettet borgere med type 2-diabetes. Den enkelte kommunes tilbud beskrives og effekter af et samlet forløb evalueres. Hvis muligt foretages en samlet vurdering af de lokalt udviklede tilbud på tværs af de deltagende kommuner.</p>
 <p>Evalueringen baseres på følgende effektmål, der som minimum evalueres:</p>
 <ul>
 <li>Deltageres opfattelse af at kunne tage vare på og mestre sin egen diabetesbehandling (Perceived Competence in Diabetes scale (PCD))</li>
@@ -156,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Sundhedsøkonomisk analyse, der sammenholder økonomiske ressourcer med klinisk relevante effekter</li>
 </ul>
 <p>Hvis den enkelte kommune ønsker det, kan evalueringen udvides med flere effektmål.</p>
-<p>Der er stadig mulighed for, at flere kommuner kan blive en del af projektet. Tag fat i projektleder Tina Quist, hvis I gerne vil høre mere om et samarbejde.</p>
+<p>Der er stadig mulighed for, at flere kommuner kan blive en del af projektet. Tag fat i projektleder Tina Quist, hvis I gerne vil høre mere om et samarbejde. Se kontaktoplysninger længere ned på siden.</p>
 </section>
 <section id="fordele-ved-at-deltage" class="level2">
 <h2 class="anchored" data-anchor-id="fordele-ved-at-deltage">Fordele ved at deltage</h2>
@@ -176,9 +179,14 @@ ul.task-list li input[type="checkbox"] {
 <strong>Hvordan er evalueringen designet og hvad betyder det for os?</strong>
 </summary>
 <p>Evakom er designet som et lodtrækningsstudie med venteliste.</p>
-<p>For at opnå statistisk styrke til meningsfulde konklusioner, skal evalueringen baseres på i alt 48 borgere, hvoraf - 32 borgere starter på forløbet med det samme - 16 borgere venter ca. 3 måneder med at starte i forløb.</p>
+<p>For at opnå statistisk styrke til meningsfulde konklusioner, skal evalueringen baseres på i alt 48 borgere, hvoraf</p>
+<ul>
+<li>32 borgere starter på forløbet med det samme</li>
+<li>16 borgere venter ca. 3 måneder med at starte i forløb.</li>
+</ul>
 <p>Der er ikke fastlagt en tidsbegrænsning for, hvor længe det kan tage at rekruttere 48 borgere.</p>
 <p>Når en borger tilbydes et forløb målrettet borgere med type 2-diabetes, informeres borgeren om projektet. Hvis borgeren ønsker at deltage underskrives en samtykkeerklæring. Derefter vil I ved hjælp af et computersystem (REDcap) tilfældigt tildele borgeren at starte med det samme (fx opstart på næste hold), eller sætte borgeren på venteliste. Borgerne bliver automatisk randomiseret ud fra en 2:1 nøgle, hvilket betyder at dobbelt så mange borgere kommer i gang med det samme i forhold til hvor mange borgere, der kommer på venteliste. Uanset om borgeren starter med det samme eller tildeles venteliste skal borgeren gennemføre få målinger/tests hos jer og borgeren skal besvare et spørgeskema elektronisk hjemmefra. Målinger/test og besvarelse af spørgeskema gentages når forløbet er slut eller når borgeren har været fem måneder på venteliste.</p>
+<p>Erfaringer fra Favrskov Kommune viser at projektprocedurer tager ca 1 time ialt.</p>
 </details>
 <details>
 <summary>
